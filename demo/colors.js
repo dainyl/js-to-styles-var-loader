@@ -1,5 +1,7 @@
+import fancyRed from 'fancy-red';
+
 module.exports = {
-    'fancy-red': '#db0f3b',
+    'fancy-red': fancyRed,
     'fancy-blue': '#0f9adb',
     'fancy-yellow': '#e5c63b',
     'fancy-green': '#4fdd59',

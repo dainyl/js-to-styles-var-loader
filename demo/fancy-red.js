@@ -1,0 +1,1 @@
+export default fancyRed = '#db0f3b';
