@@ -1,4 +1,4 @@
-import fancyRed from 'fancy-red';
+import fancyRed from './fancy-red';
 
 module.exports = {
     'fancy-red': fancyRed,
